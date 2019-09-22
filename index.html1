@@ -1,0 +1,35 @@
+!Doctype html>
+ <htm>
+ <head>
+ <metacharset="utf-8">
+ <title>CIT 230 Assignment</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="style.css"
+ 
+ 
+ <link href="style.css" rel="stylesheet" type="text/css">
+ </head>
+
+<body>
+ <div>
+   <h1>Elza E. Hobbs</h1>
+ </div>
+ <div><img src="../Downloads/elzahobbs.jpg" width="155" height="147" class= "image"></div>
+ <div>
+   <h2>CIT 230: Assignment Portal<h2>
+</div>
+   <meta name="description" content="Assignment portal for Elza Hobbs in CIT 230: Web Fronted Development at 
+ Brigham Young University - Idaho">
+ <ul>
+	 <li>Lesson 02:<a href="link">assignment 02 link</a></li>
+	 <li>Lesson 03:<a href="link">assignment 03 link</a></li>
+<li>Lesson 04:<a href="link">assignment 04 link</a></li>
+</ul>
+ <body>
+ <footer>
+<id class:"footer information"><p>@ 2019 | Elza E. Hobbs | Atlanta | BYUI Online Learning </p>
+	
+	 <id class:update><p>last updated 09/21/19</p>
+	 </div>
+ </footer>
+ </html>
